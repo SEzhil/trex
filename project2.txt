@@ -1,0 +1,34 @@
+var ball = createSprite(200, 130,20,20);
+var pin1 = createSprite(200, 286,20,20);
+var pin2 = createSprite(180, 301,20,20);
+var pin3 = createSprite(220, 299,20,20);
+var pin4 = createSprite(235,317,20,20);
+var pin5 = createSprite(165, 317,20,20);
+var pin6 = createSprite(201,317,20,20);
+
+
+//190299,208299,220307,177308,190308
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ball.shapeColor="white";
+pin1.shapecolor="grey"
+
+function draw() {
+
+background("lightgrey");
+
+
+
+
